@@ -63,7 +63,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: url("/resources/pattern.jpeg");
+  background-image: url("../pattern.jpeg");
   background-size: cover;
   opacity: 0.5;
   z-index: -1;
